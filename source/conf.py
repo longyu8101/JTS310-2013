@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '水运工程混凝土结构实体检测技术规范<br /><br />GB55001-2021'
+project = '港口设施维护技术规范<br /><br />JTS 310-2013'
 copyright = '哈尔滨工业大学' 
 
 # -- General configuration ---------------------------------------------------
@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # html_theme = 'sphinx_book_theme'
 
-html_title = "水运工程混凝土结构实体检测技术规范  JTS 239-2015"
+html_title = "港口设施维护技术规范  JTS 310-2013"
 # html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
 

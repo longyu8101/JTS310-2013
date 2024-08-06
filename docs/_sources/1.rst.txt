@@ -7,12 +7,13 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id1.0.1"> 1.0.1</a> <span id="id1.0.1">为在工程建设中贯彻落实建筑方针，保障工程结构安全性、适用性、耐久性，满足建设项目正常使用和绿色发展需要，制定本规范。</span></p>
+ <p style="text-align:justify"><a href="#id1.0.1"> 1.0.1</a> <span id="id1.0.1">为加强港口设施维护的技术管理，提高港口设施维护的技术水平，保障港口设施正常使用和安全运行，制定本规范。</span></p>
 
- <p style="text-align:justify"><a href="#id1.0.2"> 1.0.2</a> <span id="id1.0.2">工程结构必须执行本规范。</span></p>
+ <p style="text-align:justify"><a href="#id1.0.2"> 1.0.2</a> <span id="id1.0.2">本规范适用于港口设施的维护和管理。</span></p>
 
- <p style="text-align:justify"><a href="#id1.0.3"> 1.0.3</a> <span id="id1.0.3">工程建设所采用的技术方法和措施是否符合本规范要求，由相关责任主体判定。其中，创新性的技术方法和措施，应进行论证并符合本规范中有关性能的要求。</span></p>
-
+ <p style="text-align:justify"><a href="#id1.0.3"> 1.0.3</a> <span id="id1.0.3">港口设施维护应贯彻预防为主的方针，按照"科学管理、合理使用、定期检测、适时维修"的原则，加强对港口设施的检查、检测、评定和维修，保持港口设施处于良好技术状态，努力提高港口设施的安全性、适用性和耐久性。</span></p>
+ 
+ <p style="text-align:justify"><a href="#id1.0.4"> 1.0.4</a> <span id="id1.0.4">港口设施的维护除应符合本规范的规定外，尚应符合国家现行有关标准的规定。</span></p>
 .. raw:: html
 
     <style>
