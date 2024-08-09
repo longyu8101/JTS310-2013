@@ -1,0 +1,1173 @@
+4 技术状态分类
+==============
+
+.. raw:: html
+
+  <h2 id="test111">4 技术状态分类</h2>
+
+4.1 港口主要设施技术状态分类
+-----------------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1"> 港口主要设施技术状态类别划分应符合<a href="#B4.1.1">表4.1.1</a>的规定。</span></p>
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.1.1">表4.1.1 港口主要设施技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   width="100px"  id="dhbg">技术类别</td>
+		      <td align="center"   width="100px"  id="dhbg">技术状态</td>
+			  <td align="center"   width="700px"  id="dhbg">评定标准</td>
+ 		    </tr>
+		    <tr>
+		      <td align="center"  id="dhbg">一类</td>
+		      <td align="center"  id="dhbg">好</td>
+			  <td align="left"  id="dhbg">①重要部位及构件有个别轻度损坏;<br/>②次要部位及构件有少量中度损坏;<br/>③结构元明显沉降、位移或变形;<br/>④承载力不低于设计值</td>
+ 		    </tr>
+		      <td align="center"  id="dhbg">二类</td>
+		      <td align="center"  id="dhbg">较好</td>
+			  <td align="left"  id="dhbg">①重要部位及构件完好;<br/>②次要部位及构件个别轻度损坏;<br/>③结构基本无祝降、位移或变形;<br/>④承载力不低于设计值</td>
+ 		    </tr>
+		      <td align="center"  id="dhbg">三类</td>
+		      <td align="center"  id="dhbg">较差</td>
+			  <td align="left"  id="dhbg">①重要部位及构件有少量巾度损坏或出现轻度功能性损坏，但发展缓慢，尚能维持正常使用;<br/>②次要部位及构件有大量中度损坏或少量严重损坏，功能降低，进一步恶化将不利于重要构件的安全或正常使用；<br/>③结构有沉降、{立移或变形，不影响整体稳定;<br/>④承载力不低于设计值</td>
+ 		    </tr>   
+		      <td align="center"  id="dhbg">四类</td>
+		      <td align="center"  id="dhbg">差</td>
+			  <td align="left"  id="dhbg">①重要部位及构件有大量中度损坏或劣化，或出现功能性损坏，但发展缓慢，尚能维持使用;<br/>②次要部位及构件有大量严重损坏或劣化，功能明显降低，不利于重要构件的安全或正常使用；<br/>③结构沉降、位移或变形较大，影响整体稳定;<br/>④承戦力低于设计值</td>
+ 		    </tr> 
+		      <td align="center"  id="dhbg">五类</td>
+		      <td align="center"  id="dhbg">危险</td>
+			  <td align="left"  id="dhbg">①重要部位及构件有大量严重损坏或劣化，出现功能性损坏且发展迅速，不能维持使用;<br/>②次要部位及构件有大量严重损坏或劣化，失去应有功能;<br/>③结构沉降、位移或变形严重，整体不稳定；<br/>④承载力低于设计值</td>
+ 		    </tr>                                            
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注：①完好——表示结构或构件未出现损坏或劣化；</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ②损坏——表示构件表面的可见破损。对混凝土结构，包括棱角破损、裂缝、表面剥落、脱空层裂、露筋等；对钢结构，包括杆件断裂、局部变形、煤缝开裂、连接件损坏等；对砌筑结构，包括砌体裂缝、松动、断裂或崩塌等；对抛筑结构，包括抛填体松动、下滑或局部崖塌等；对各类面层，包括裂缝、表面剥落、坑槽或坑洼等；</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ③劣化——表示结构材料性能退化。主要为混凝土强度和耐久性能等；</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ④表中的"个别"、"少量"、"大量"为描述结构损坏或劣化数量的用语，根据损坏或劣化数量对结构功能的影响，按下列百分比掌握:<br/>&emsp;&emsp;&nbsp;当出现损坏或劣化的数量按构件数量比例统计时，"个别" 为小于构件总数量的10%，"少量"为构件总数量的 10% - 20% ，"大量"为构件总数量的 20%品以上:<br/>&emsp;&emsp;&nbsp;出现损坏或劣化的数量按占所在面积或所在构件长度比例统计时，"个别"为小于所在面积或构件长度10% ，"少量"为所在面积或构件长度的 10% -20% ，"大量"为所在面积或构件长度的 20% 以上;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ⑤表中的“轻度”、“中度”、“严重”是描述结构损坏或劣化程度的用语，根据损坏或劣化的程度对结构功能和耐久性的影响程度规定如下：<br/>&emsp;&emsp;&nbsp;对于桩、梁、板、沉箱、扶壁等构件裂绩，“轻度”为一般裂缝，裂缝宽度小于0.3 mm;“中度”为顺筋裂缝，裂缝宽度在0.3~1.0 mm之间，无结构裂缝；“严重”为涨裂性顺筋裂缝或网状裂缝，裂缝宽度大于1.0 mm,或有贯穿性裂缝；<br/>&emsp;&emsp;&nbsp;对于方块、胸墙、墩台等构件，“轻度裂缝”为裂缝宽度小于0.5 mm;“中度裂缝”为裂鳞宽度在0.5～3.0 mm之间；“严重裂缝”为裂缝宽度大于3.0 mm;<br/>&emsp;&emsp;&nbsp;对混凝土构件表面剥落露石，“轻度”为个别处剥落露石；“中度”为少量剥落露石，深度未超过钢筋保护层；“严重”为大量剥落露石，深度超过钢筋保护层或形成空穴；<br/>&emsp;&emsp;&nbsp;对混凝土表面破损，“轻度”为破损深度较少或深度不超过钢筋保护层厚度；“中度”为破损深度较大或超过钢筋保护层厚度或局部外层钢筋暴露；“严重”为破损深度或面积较大或钢筋暴露；<br/>&emsp;&emsp;&nbsp;对砌体，“轻度”为砌体微细裂缝或松动；“中度”为砌体明显裂缝或松动；“严重”为有局部断裂或崩塌；<br/>&emsp;&emsp;&nbsp;对抛筑体，“轻度”为护面块体少量稀疏或松动；“中度”为护面块体有明显松动或下滑拔缝；“严重”为局部崩塌；<br/>&emsp;&emsp;&nbsp;对混凝土面层和铺砌面层，“轻度”为有一般裂缝或表而缺陷；“中度”为有浅坑槽或板块断裂；“严重”为有普遍坑洼或严重破损；<br/>&emsp;&emsp;&nbsp;对沥青混凝土面层，“轻度”为有裂缝或一般缺陷；“中度”为有坑槽或波浪型起伏；“严重”为有普逍坑洼或严重破损；</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ⑥第四、第五类中发生真中一种定为该类别;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ⑦表4.1.2-表4.1.6表示的损坏和劣化解释同本表注。</li> 
+ </ul>
+ </font></p>
+ 
+ <p style="text-align:justify"><a href="#id4.1.2"> 4.1.2</a> <span id="id4.1.2"> 码头的技术状态类别划分应符合<a href="#B4.1.2.1">表4.1.2-1</a>-<a href="#B4.1.2.4">表4.1.2-4</a>的规定。</span></p> 
+ 
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.1.2.1">表4.1.2-1 重力式码头技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   colspan="2" rowspan="2" id="dhbg">项目</td>
+              <!-- <td></td> -->
+		      <td align="center"   colspan="5" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->   
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <!-- <td></td> -->
+		      <td align="center"   width="150px" id="dhbg">一类（好）</td>
+			  <td align="center"   width="160px" id="dhbg">二类（较好）</td>
+              <td align="center"   width="160px" id="dhbg">三类（较差）</td>
+              <td align="center"   width="160px" id="dhbg">四类（差）</td>
+              <td align="center"   width="160px" id="dhbg">五类（危险）</td>  
+ 		    </tr>
+		    <tr>
+		      <td align="center"   colspan="2"  id="dhbg">结构沉降、位移，整体稳定</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">基本无沉降、位移、整体稳定</td>
+			  <td align="left"   id="dhbg">无明显沉降、位移、整体稳定</td>
+              <td align="left"   id="dhbg">有明显沉降、位移，不影响整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移较大，影响整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移严重，整体不稳定</td>  
+ 		    </tr>
+		    <tr>
+		      <td align="center"   rowspan="2" width="50px" id="dhbg">上部结构</td>
+              <td align="center"   width="60px" id="dhbg">面层</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏；变形缝完好</td>
+			  <td align="left"   id="dhbg">小于10%的板块中度损坏；变形缝局部损坏，不影响正常使用</td>
+              <td align="left"   id="dhbg">10%~20%的板块中度损坏，或小于10%的板块严重损坏；变形缝普遍缺损；影响正常使用</td>
+              <td align="leftr"   id="dhbg">20%以上的板块中度损坏，或10%以上的板块严重破损坏；变形缝严重缺损、失效；严重影响正常使用</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">胸墙</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏；钢筋无锈蚀</td>
+			  <td align="left"   id="dhbg">小于10%的墙段中度损坏；钢筋局部锈蚀</td>
+              <td align="left"   id="dhbg">10%~20%的墙段中度损坏，或小于10%的墙段严重损坏；钢筋明显锈蚀</td>
+              <td align="left"   id="dhbg">20%以上的墙段中度损坏或10%以上的墙段严重裂缝、表面损坏，钢筋严重锈蚀</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>  
+		    <tr>
+		      <td align="center"   rowspan="3"id="dhbg">墙身</td>
+              <td align="center"   id="dhbg">方块</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏，表面无明显剥落</td>
+			  <td align="left"   id="dhbg">小于10%的构件中度损坏，表面剥落</td>
+              <td align="left"   id="dhbg">10%~20%的构件中度损坏，表面剥落或小于10%的构件严重损坏或断裂</td>
+              <td align="left"   id="dhbg">20%以上的构件中度损坏，表面剥落或10%以上的构件严重损坏或断裂</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">沉箱扶壁圆筒</td>
+		      <td align="left"   id="dhbg">完好，或构件有轻度损坏；无裂缝、表面剥落</td>
+			  <td align="left"   id="dhbg">小于5%的构件中度损坏、裂缝、表面剥落，钢筋有局部锈蚀</td>
+              <td align="left"   id="dhbg">5%~10%的构件中度损坏或小于5%的构件严重损坏、裂缝、表面剥落，钢筋有明显锈蚀</td>
+              <td align="left"   id="dhbg">10%~20%以上的构件中度损坏或5%~10%的构件严重损坏、裂缝、表面剥落，钢筋锈蚀广泛</td>
+              <td align="left"   id="dhbg">20%以上的构件中度损坏或10%以上的构件严重损坏、裂缝、表面剥落，钢筋锈蚀缩径</td>  
+ 		    </tr> 
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">构件安装接缝</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏，无漏砂</td>
+			  <td align="left"   id="dhbg">小于5%的接缝中度损坏，无漏砂</td>
+              <td align="left"   id="dhbg">5%~10%的接缝中度损坏，无漏砂</td>
+              <td align="left"   id="dhbg">10%~20%的接缝中度损坏或小于10%的接缝严重损坏，局部漏砂</td>
+              <td align="left"   id="dhbg">20%以上的接缝中度损坏或10%以上的接缝严重损坏，严重漏砂</td>  
+ 		    </tr> 
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">后方接岸</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">交接平顺，无明显差异沉降</td>
+			  <td align="left"   id="dhbg">交接欠平顺，有差异沉降，但不影响正常使用</td>
+              <td align="left"   id="dhbg">有明显差异沉降，影响真常使用</td>
+              <td align="left"   id="dhbg">有明显差异沉降或局部塌陷，影响使用</td>
+              <td align="left"   id="dhbg">差异沉降过大、出现塌陷或大量漏砂，严重影响使用</td>  
+ 		    </tr> 
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">基床</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完好，无冲刷损坏</td>
+			  <td align="left"   id="dhbg">有轻微冲刷损坏，但墙身基底未淘空</td>
+              <td align="left"   id="dhbg">有轻微冲刷损坏，墙身基底淘空深入长度不超过墙身宽度的10%</td>
+              <td align="left"   id="dhbg">有明显冲刷损坏，墙身基底淘空深入长度不超过墙身宽度的20%</td>
+              <td align="left"   id="dhbg">有严重冲刷损坏，墙身基底淘空深入长度超过墙身宽度的20%</td>  
+ 		    </tr>                                                         
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注：①正砌空心块体和一次安装出水空心方块，按沉箱、扶壁、圆筒类构件执行；</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ②钢圆筒和码头钢战桥的劣化，按高桩码头的有关规定执行;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ③重力墩式码头的上部结构，按高桩码头的有关规定执行;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ④当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。</li> 
+ </ul>
+ </font></p>
+
+
+       <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.1.2.2">表4.1.2-2 高桩码头技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   colspan="2" rowspan="2" id="dhbg">项目</td>
+              <!-- <td></td> -->
+		      <td align="center"   colspan="5" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->   
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <!-- <td></td> -->
+		      <td align="center"   width="150px" id="dhbg">一类（好）</td>
+			  <td align="center"   width="160px" id="dhbg">二类（较好）</td>
+              <td align="center"   width="160px" id="dhbg">三类（较差）</td>
+              <td align="center"   width="160px" id="dhbg">四类（差）</td>
+              <td align="center"   width="160px" id="dhbg">五类（危险）</td>  
+ 		    </tr>
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">结构沉降、位移、整体稳定</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">基本无沉降，位移，整体稳定</td>
+			  <td align="left"   id="dhbg">无明显沉降、位移，整体稳定</td>
+              <td align="left"   id="dhbg">无明显沉降、有明显位移，不影响整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移较大，影响整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移严重，整体不稳定</td>  
+ 		    </tr> 
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">接岸结构</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">交接平顺，无差异沉降</td>
+			  <td align="left"   id="dhbg">交接平顺，有轻度差异沉降</td>
+              <td align="left"   id="dhbg">有差异沉降，局部有轻微塌陷</td>
+              <td align="left"   id="dhbg">有明显差异沉降，局部塌陷，影响使用</td>
+              <td align="left"   id="dhbg">差异沉降过大、漏砂、塌陷范围较大，严重影响使用</td>  
+ 		    </tr> 
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">面层</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完好，或板块有轻微龟裂，变形缝完好</td>
+			  <td align="left"   id="dhbg">小于10%的板块有龟裂，变形缝局部损坏；不影响使用</td>
+              <td align="left"   id="dhbg">10%~20%的板块有裂缝、剥落、浅坑槽，变形缝普遍损坏，影响使用</td>
+              <td align="left"   id="dhbg">20%以上的板块有严重剥落、损坏；变形缝严重损坏；严重影响使用</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>                         
+		    <tr>
+		      <td align="center"   rowspan="7" width="50px" id="dhbg">上部结构</td>
+              <td align="center"   width="60px" id="dhbg">混凝土板</td>
+		      <td align="left"   id="dhbg">完好，或轻度表面损坏；无锈迹</td>
+			  <td align="left"   id="dhbg">小于5%的构件轻度损坏、裂缝，局部空鼓，有局部锈迹</td>
+              <td align="left"   id="dhbg">5%~20%的构件轻度损坏，或小于10%的构件中度损坏、裂缝、剥落，钢筋轻微锈蚀</td>
+              <td align="left"   id="dhbg">20%以上的构件轻度损坏，或10%~20%的构件中度损坏、裂缝、剥落，钢筋普遍锈蚀</td>
+              <td align="left"   id="dhbg">20%以上的构件中度损坏、裂缝、剥落，钢筋严重锈蚀缩径</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">混凝土梁</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏，无裂缝，无锈迹</td>
+			  <td align="left"   id="dhbg">小于5%的构件轻度损坏、裂缝，局部锈迹</td>
+              <td align="left"   id="dhbg">5%~20%的构件轻度损坏，或小于5%的构件中度损坏、裂缝、剥落，钢筋局部锈蚀</td>
+              <td align="left"   id="dhbg">10%~20%的构件轻度损坏，或5%~10%的构件中度损坏、裂缝、剥落，钢筋锈蚀广泛</td>
+              <td align="left"   id="dhbg">20%以上的构件轻度损坏、10%以上的构件中度损坏或有严重损坏、裂缝、剥落，钢筋严重锈蚀缩径</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">桩帽墩台</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏，无锈迹</td>
+			  <td align="left"   id="dhbg">小于10%的构件轻度损坏，无剥落，有锈迹</td>
+              <td align="left"   id="dhbg">10%~20%的构件轻度损坏，或小于5%的构件中度损坏，剥落钢筋局部锈蚀</td>
+              <td align="left"   id="dhbg">20%以上的构件轻度损坏，或10%~20%的构件中度损坏、剥落或劈裂，影响结构性能</td>
+              <td align="left"   id="dhbg">20%以上的构件中度损坏或有严重损坏、剥落或劈裂，严重影响结构性能</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">钢结构</td>
+		      <td align="left"   id="dhbg">各部件及焊缝完好，栓接节点无松动，涂层完好</td>
+			  <td align="left"   id="dhbg">各部件及焊缝完好，栓接节点无松动，小于5%的涂层面积失效</td>
+              <td align="left"   id="dhbg">次要部件局部变形或焊缝裂纹，小于10%的栓接节点松动，5%~10%的涂层面积失效</td>
+              <td align="left"   id="dhbg">个别主要构件扭曲、损坏裂纹、开焊，5%~10%的栓接节点松动，10%~30%的涂层面积失效，钢材锈蚀明显</td>
+              <td align="left"   id="dhbg">20%以上主要构件严重扭曲、开焊，栓接节点松动30%以上涂层面积失效，刚才严重锈蚀</td>  
+ 		    </tr> 
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">混凝土桩</td>
+		      <td align="left"   id="dhbg">完好，无损坏，无裂缝，无锈迹</td>
+			  <td align="left"   id="dhbg">小于5%的构件轻度损坏、裂缝，无明显锈迹</td>
+              <td align="left"   id="dhbg">5%~10%的构件轻度损坏，或小于5%的构件中度损坏、裂缝，局部有锈迹，无严重损坏</td>
+              <td align="left"   id="dhbg">10%以上的构件轻度损坏，或5%~10%的构件中度损坏、裂缝，局部露筋、锈蚀，或个别严重损坏</td>
+              <td align="left"   id="dhbg">10%以上的构件中度损坏，或小于5%的构件严重损坏、裂缝，钢筋严重锈蚀缩径</td>  
+ 		    </tr> 
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">混凝土管桩</td>
+		      <td align="left"   id="dhbg">完好，无裂缝，无锈迹</td>
+			  <td align="left"   id="dhbg">小于3%的构件轻度损坏，轻度裂缝，无锈迹</td>
+              <td align="left"   id="dhbg">3%-5%的构件轻度损坏，轻度裂缝，局部有锈迹</td>
+              <td align="left"   id="dhbg">5%以上的构件轻度损坏或个别构件中度损坏，中度裂缝，有明显锈迹</td>
+              <td align="left"   id="dhbg">5%以上的构件中度或有严重损坏，严重裂缝，钢筋明显锈蚀</td>  
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">钢管桩</td>
+		      <td align="left"   id="dhbg">完好，涂层无损面枫失效，电化学防坏，电化学防护正常有效</td>
+			  <td align="left"   id="dhbg">小于20%的涂层护基本正常有效，预留锈蚀厚度减小不超过设计的30%</td>
+              <td align="left"   id="dhbg">小于20%涂层面积失效，电化学防护基本正常有效，预留锈蚀厚度减小超过设计的30%</td>
+              <td align="left"   id="dhbg">20%-50%的涂层面积失效，电化学防护不正常，有明显锈坑、预留锈蚀厚度减小超过设计的90%</td>
+              <td align="left"   id="dhbg">50%以上涂层面积失效，电化学防护无效，有严重锈坑、孔洞，10%以上钢材截面削弱</td>  
+ 		    </tr>                      
+		    <tr>
+		      <td align="center"   colspan="2"  id="dhbg">下部棱体与护坡</td>
+              <!-- <td></td> -->
+		      <td align="center"   id="dhbg">断面完好，破面无损坏</td>
+			  <td align="center"   id="dhbg">断面完好，破面有轻微损坏</td>
+              <td align="center"   id="dhbg">坡面有中度损坏或局部下沉，对桩基无影响</td>
+              <td align="center"   id="dhbg">坡面不整，断面有明显变化，对桩基有影响</td>
+              <td align="center"   id="dhbg">坡面严重损坏，桩后隆起，对桩基有严重影响</td>  
+ 		    </tr>                                                                  
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注:①桩基墩式码头与核桥按本表的规定执行;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ②桩与上都结构有脱离时，应进行检测，根据检测结果确定技术状态类别;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ③当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。</li> 
+ </ul>
+ </font></p>
+
+       <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.1.2.3">表4.1.2-3 板桩码头技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   colspan="2" rowspan="2" id="dhbg">项目</td>
+              <!-- <td></td> -->
+		      <td align="center"   colspan="5" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->   
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <!-- <td></td> -->
+		      <td align="center"   width="150px" id="dhbg">一类（好）</td>
+			  <td align="center"   width="160px" id="dhbg">二类（较好）</td>
+              <td align="center"   width="160px" id="dhbg">三类（较差）</td>
+              <td align="center"   width="160px" id="dhbg">四类（差）</td>
+              <td align="center"   width="160px" id="dhbg">五类（危险）</td>  
+ 		    </tr>
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">结构沉降、位移、整体稳定</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">基本无沉降，位移和变形，整体稳定</td>
+			  <td align="left"   id="dhbg">无明显沉降、位移和变形，整体稳定</td>
+              <td align="left"   id="dhbg">有明显沉降、位移和变形，整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移和变形较大，影响整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移和变形严重，整体不稳定</td>  
+ 		    </tr> 
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">面层与基层</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完好，或有轻度损坏</td>
+			  <td align="left"   id="dhbg">小于10%的板块中度损坏、裂缝，不影响正常使用</td>
+              <td align="left"   id="dhbg">10%~20%的板块中度损坏，或小于10%的板块严重损坏、裂缝，影响正常使用</td>
+              <td align="left"   id="dhbg">20%以上的板块中度损坏，或10%以上的板块严重损坏、裂缝，严重影响正常使用</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>                         
+		    <tr>
+		      <td align="center"   rowspan="5" width="50px" id="dhbg">前墙与上部结构</td>
+              <td align="center"   width="60px" id="dhbg">胸墙或帽梁、导梁</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏，无锈迹</td>
+			  <td align="left"   id="dhbg">小于5%的段中度损坏、裂缝，有锈迹</td>
+              <td align="left"   id="dhbg">5%~10%的段中度损坏、裂缝，有明显锈迹</td>
+              <td align="left"   id="dhbg">10%~20%的段中度损坏，或小于5%的段严重损坏、裂缝，钢筋明显锈蚀</td>
+              <td align="left"   id="dhbg">20%以上的段中度损坏，或5%以上的段严重损坏、裂缝，钢筋严重锈蚀缩径</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">混凝土板桩</td>
+		      <td align="left"   id="dhbg">完好，或轻度损坏、，无裂缝，无锈迹</td>
+			  <td align="left"   id="dhbg">小于5%的桩轻度损坏、裂缝，无明显锈迹</td>
+              <td align="left"   id="dhbg">5%~100%的桩轻度损坏，或小于5%的桩中度损坏、裂缝，有锈迹</td>
+              <td align="left"   id="dhbg">10%~20%的桩轻度损坏，或5%~10%的桩中度损坏、裂缝，钢筋明显锈蚀</td>
+              <td align="left"   id="dhbg">20%以上的桩轻度损坏、10%以上的桩中度损坏或有严重损坏、裂缝，钢筋严重锈蚀缩径</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">钢板桩</td>
+		      <td align="left"   id="dhbg">板面、锁口完好，无锈蚀</td>
+			  <td align="left"   id="dhbg">板面和锁口完好，不大于5%的桩墓轻度损坏，锈蚀面积小于10%</td>
+              <td align="left"   id="dhbg">锁口完好，锈蚀面积在10%-20%之间</td>
+              <td align="left"   id="dhbg">锁口基本完好，锈蚀面积在20%以上</td>
+              <td align="left"   id="dhbg">锁口失效，板桩断面明显削弱</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">地下连续墙</td>
+		      <td align="left"   id="dhbg">墙面完好，无损坏、剥落</td>
+			  <td align="left"   id="dhbg">小于5%的段轻度损坏，无明显剥落、缝、锈迹</td>
+              <td align="left"   id="dhbg">5%-10%的段轻度损坏，或小于5%的段中度损坏、裂缝，有锈迹</td>
+              <td align="left"   id="dhbg">10%~20%的段轻度损坏，5%~10%的段中度损坏、裂缝，钢筋锈蚀广泛</td>
+              <td align="left"   id="dhbg">20%以上的段轻度损坏、10%以上的段中度损坏或有严重损坏，钢筋严重锈蚀缩径</td>  
+ 		    </tr> 
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">板桩墙体间接缝</td>
+		      <td align="left"   id="dhbg">接缝完好，无明显损坏</td>
+			  <td align="left"   id="dhbg">小于10%的缝轻度缺损，无漏砂</td>
+              <td align="left"   id="dhbg">小于10%的缝中度损坏，无漏砂</td>
+              <td align="left"   id="dhbg">10%~20%的缝中度缺损，局部漏砂</td>
+              <td align="left"   id="dhbg">20%以上的缝中度损坏或有严重缺损，严重漏砂</td>  
+ 		    </tr> 
+		    <tr>
+		      <td align="center"   colspan="2"  id="dhbg">锚硫钢拉杆</td>
+              <!-- <td></td> -->
+		      <td align="center"   id="dhbg">钢拉杆、连接件和防腐完好</td>
+			  <td align="center"   id="dhbg">小于5%的图层轻度损坏，无锈迹</td>
+              <td align="center"   id="dhbg">5%~10%的图层轻度损坏，或小于5%的涂层中度损坏，有明显锈迹</td>
+              <td align="center"   id="dhbg">10%~20%的图层轻度损坏，或5%~10%的涂层中度损坏，钢拉杆锈蚀广泛</td>
+              <td align="center"   id="dhbg">20%以上的图层轻度损坏、10%以上的涂层中度损坏或有严重损坏，钢拉杆严重锈蚀缩径</td>  
+ 		    </tr>                                                                  
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注：①沉降位移较大时应对锚旋结构进行检查;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ②当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。</li> 
+ </ul>
+ </font></p>
+
+
+
+
+
+        <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.1.2.4">表4.1.2-4 斜坡码头及浮码头技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   colspan="2" rowspan="2" id="dhbg">项目</td>
+              <!-- <td></td> -->
+		      <td align="center"   colspan="5" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->   
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <!-- <td></td> -->
+		      <td align="center"   width="150px" id="dhbg">一类（好）</td>
+			  <td align="center"   width="160px" id="dhbg">二类（较好）</td>
+              <td align="center"   width="160px" id="dhbg">三类（较差）</td>
+              <td align="center"   width="160px" id="dhbg">四类（差）</td>
+              <td align="center"   width="160px" id="dhbg">五类（危险）</td>  
+ 		    </tr>
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">结构沉降、位移、整体稳定</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">基本无沉降，位移，整体稳定</td>
+			  <td align="left"   id="dhbg">无明显沉降、位移，整体稳定</td>
+              <td align="left"   id="dhbg">有明显沉降、位移，整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移较大，但发展缓慢，影响整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移严重，呈发展趋势，整体不稳定</td>  
+ 		    </tr> 
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">实体斜坡道</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">面层、坡肩完好</td>
+			  <td align="left"   id="dhbg">面层轻度损坏，面积小于10%，坡肩无损坏</td>
+              <td align="left"   id="dhbg">面层中度损坏，面积小于10%，坡肩轻微损坏</td>
+              <td align="left"   id="dhbg">10%~20%以上的面层中度损坏或有严重损坏，坡肩坍塌，垫层暴露</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>                         
+		    <tr>
+		      <td align="center"   rowspan="2" width="50px" id="dhbg">架空斜坡道</td>
+              <td align="center"   width="60px" id="dhbg">上部结构</td>
+		      <td align="left"   id="dhbg">完好</td>
+			  <td align="left"   id="dhbg">小于5%的构件轻度损坏、裂缝，无明显锈迹</td>
+              <td align="left"   id="dhbg">5%~10%的构件轻度损坏，或小于5%的构件中度损坏、裂缝，有锈迹</td>
+              <td align="left"   id="dhbg">10%以上的构件轻度损坏，或5%~10%的构件中度损坏，或个别构件严重损坏，钢筋锈蚀广泛</td>
+              <td align="left"   id="dhbg">10%以上的构件中度损坏，或5%以上的构件严重损坏，裂缝宽度超限，钢筋锈蚀缩径</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">墩台柱升降架</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏，表面无锈迹</td>
+			  <td align="left"   id="dhbg">小于5%的立柱轻度损坏，无明显锈迹</td>
+              <td align="left"   id="dhbg">5%~10%的立柱轻度损坏，或小于5%的立柱中度损坏，有锈迹</td>
+              <td align="left"   id="dhbg">10%~20的立柱轻度损坏，或5%~10%的立柱中度损坏，升降架有中度损坏，钢筋锈蚀</td>
+              <td align="left"   id="dhbg">20%以上的立柱轻度损坏，或10%以上的立柱严重损坏，裂缝宽度超限，升降架严重损坏，钢筋严重锈蚀</td>  
+ 		    </tr> 
+		    <tr>
+		      <td align="center"   rowspan="2" width="50px" id="dhbg">钢引桥</td>
+              <td align="center"   width="60px" id="dhbg">支座</td>
+		      <td align="left"   id="dhbg">完好</td>
+			  <td align="left"   id="dhbg">有轻微锈蚀或损坏，不影响支撑功能</td>
+              <td align="left"   id="dhbg">局部锈蚀或损坏，不影响支撑功能</td>
+              <td align="left"   id="dhbg">出现开裂，影响支撑功能</td>
+              <td align="left"   id="dhbg">制作错位，破损严重，失去支撑功能</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">混钢结构</td>
+		      <td align="left"   id="dhbg">完好</td>
+			  <td align="left"   id="dhbg">各部件及焊缝完好，栓接节点无松动，涂层损坏面积小于5%</td>
+              <td align="left"   id="dhbg">次要部件局部变形或焊缝裂纹，栓接节点松动数量小于10%，5%~10%的涂层面积失效</td>
+              <td align="left"   id="dhbg">个别构件扭曲、损坏开裂、开焊10%~20%栓接节点松动，10%~30%的涂层面积失效，钢材锈蚀明显</td>
+              <td align="left"   id="dhbg">主要构件严重扭曲、开焊，20%以上栓接节点松动，30%以上涂层面积失效，钢材严重锈蚀</td>  
+ 		    </tr>              
+		    <tr>
+		      <td align="center"   colspan="2"  id="dhbg">墩台、撑墩基础</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完好无冲刷</td>
+			  <td align="left"   id="dhbg">有轻微冲刷、墩台小于5%的面积有轻度损坏、裂缝</td>
+              <td align="left"   id="dhbg">有轻微冲刷、基底淘空深入长度小于构件长度的5%，墩台有轻度损坏、裂缝，墩台与基桩连接有轻微缝隙</td>
+              <td align="left"   id="dhbg">有明显冲刷、基底淘空深入长度小于构件长度的20%，墩台有中度损坏、裂缝，墩台与基桩连接有明显缝隙</td>
+              <td align="left"   id="dhbg">有严重冲刷、基底淘空深入长度大于构件长度的20%，墩台有严重损坏、裂缝，墩台与基桩脱离</td>  
+ 		    </tr>                                                                  
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注：①斜坡码头前方设置的平台，按其对应的码头结构形式分别按<a href="#B4.1.2.1">表4.1.2-1</a>或<a href="#B4.1.2.2">表4.1.2-2</a>执行，延船按有关船舶标准执行；</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ②当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。</li> 
+ </ul>
+ </font></p>
+
+ <p style="text-align:justify"><a href="#id4.1.3"> 4.1.3</a> <span id="id4.1.3"> 直立式防波堤与护岸技术状态类别划分标准可按<a href="#B4.1.2.1">表4.1.2-1</a>的相应规定执行。</span></p> 
+ <p style="text-align:justify"><a href="#id4.1.4"> 4.1.4</a> <span id="id4.1.4"> 斜坡式防波堤、引堤和护岸技术状态类别划分标准应符合<a href="#B4.1.4">表4.1.4</a>的规定。</span></p> 
+
+ 
+
+        <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.1.4">表4.1.4 斜坡式防波堤、哥|堤护岸和技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   colspan="2" rowspan="2" id="dhbg">项目</td>
+              <!-- <td></td> -->
+		      <td align="center"   colspan="5" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->   
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <!-- <td></td> -->
+		      <td align="center"   width="150px" id="dhbg">一类（好）</td>
+			  <td align="center"   width="160px" id="dhbg">二类（较好）</td>
+              <td align="center"   width="160px" id="dhbg">三类（较差）</td>
+              <td align="center"   width="160px" id="dhbg">四类（差）</td>
+              <td align="center"   width="160px" id="dhbg">五类（危险）</td>  
+ 		    </tr>
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">结构沉降、位移、整体稳定</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">基本无沉降，位移，整体稳定</td>
+			  <td align="left"   id="dhbg">无明显沉降、位移，整体稳定</td>
+              <td align="left"   id="dhbg">有明显沉降、位移，整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移较大，但发展缓慢，影响整体稳定</td>
+              <td align="left"   id="dhbg">沉降、位移严重，呈发展趋势，整体不稳定</td>  
+ 		    </tr> 
+		    <tr>
+		      <td align="center"   rowspan="2" width="50px" id="dhbg">上部结构</td>
+              <td align="center"   width="60px" id="dhbg">胸墙挡浪墙</td>
+		      <td align="left"   id="dhbg">完好，或有轻度损坏，无锈迹</td>
+			  <td align="left"   id="dhbg">小于10%轻度损坏，有锈迹</td>
+              <td align="left"   id="dhbg">10%~20%的轻度损坏，或小于10%的中度损坏，有明显锈迹</td>
+              <td align="left"   id="dhbg">20%以上轻度损坏，或10%以上中度损坏，钢筋锈蚀严重</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">半圆形构件</td>
+		      <td align="left"   id="dhbg">块体稳定</td>
+			  <td align="left"   id="dhbg">块体基本稳定，或小于5%的块体超过安装允许偏差的滑移</td>
+              <td align="left"   id="dhbg">小于10%的块体超过安装允许偏差2倍的滑移，但不影响正常使用</td>
+              <td align="left"   id="dhbg">10%~20的块体超过安装允许偏差2倍的滑移，影响正常使用</td>
+              <td align="left"   id="dhbg">20%以上的块体超过安装允许偏差2倍以上的滑移，或有局部过大滑移，严重影响使用</td>  
+ 		    </tr> 
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">堤身护面</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完好</td>
+			  <td align="left"   id="dhbg">基本完好，护面层略有散乱，不影响堤身稳定</td>
+              <td align="left"   id="dhbg">护面层局部散乱，小于10%的块体断裂或缺失，不影响堤身稳定</td>
+              <td align="left"   id="dhbg">护面层散乱，10%~20%的块体断裂或缺失，垫层石局部暴露，影响堤身稳定</td>
+              <td align="left"   id="dhbg">护面层严重散乱、下滑，20%以上的块体断裂，垫层石暴露广泛，严重影响堤身稳定</td>  
+ 		    </tr>                         
+		    <tr>
+		      <td align="center"   colspan="2"  id="dhbg">基床、护坦与棱体</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完好</td>
+			  <td align="left"   id="dhbg">基本完好，局部冲刷流失，不影响堤身稳定</td>
+              <td align="left"   id="dhbg">明显冲刷六十，影响局部堤身稳定</td>
+              <td align="left"   id="dhbg">严重冲刷流失，影响堤身稳定</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>                                                                  
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注：①半圆形构件混凝土技术分类按<a href="#B4.1.2.1">表4.1.2-1</a>中的沉箱、扶壁、圆筒类构件标准执行;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ②导流堤、挡沙堤技术状态分类按本表执行;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ③当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。</li> 
+ </ul>
+ </font></p>
+
+
+ <p style="text-align:justify"><a href="#id4.1.5"> 4.1.5</a> <span id="id4.1.5"> 港区道路与堆场技术状态类别划分应符合<a href="#B4.1.5">表4.1.5</a>的规定。</span></p> 
+
+ 
+
+        <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.1.5">表4.1.5 港区道路与堆场技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   colspan="2" rowspan="2" id="dhbg">项目</td>
+              <!-- <td></td> -->
+		      <td align="center"   colspan="5" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->   
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <!-- <td></td> -->
+		      <td align="center"   width="150px" id="dhbg">一类（好）</td>
+			  <td align="center"   width="160px" id="dhbg">二类（较好）</td>
+              <td align="center"   width="160px" id="dhbg">三类（较差）</td>
+              <td align="center"   width="160px" id="dhbg">四类（差）</td>
+              <td align="center"   width="160px" id="dhbg">五类（危险）</td>  
+ 		    </tr>
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">沉降</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">无明显差异沉降</td>
+			  <td align="left"   id="dhbg">轻微差异沉静，不影响正常使用</td>
+              <td align="left"   id="dhbg">差异沉降较大，但尚能维持使用</td>
+              <td align="left"   id="dhbg">差异沉降过大，严重影响正常使用</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr> 
+		    <tr>
+		      <td align="center"   rowspan="3" width="50px" id="dhbg">面层与基层</td>
+              <td align="center"   width="60px" id="dhbg">混凝土面层</td>
+		      <td align="left"   id="dhbg">完好平整</td>
+			  <td align="left"   id="dhbg">基本完好、平整，或小于10%的板块轻度损坏，不影响正常使用</td>
+              <td align="left"   id="dhbg"> 10%~20%的板块轻度损坏，或小于10%的板块中度损坏，影响正常使用</td>
+              <td align="left"   id="dhbg"> 20%以上的板块中度损坏，或10%以上的板块严重损坏，严重影响使用</td>
+              <td align="center"   id="dhbg">—</td>    
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">沥青混凝土面层</td>
+		      <td align="left"   id="dhbg">完好、平整</td>
+			  <td align="left"   id="dhbg">基本完好、平整，小于10%的面积轻度损坏，不影响正常使用</td>
+              <td align="left"   id="dhbg"> 10%~20%的面积轻度损坏，或小于10%的面积中度损坏，影响正常使用</td>
+              <td align="left"   id="dhbg"> 20%以上的面积中度损坏，或10%以上的面积严重损坏，严重影响使用</td>
+              <td align="center"   id="dhbg">—</td>    
+ 		    </tr> 
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">铺砌面层</td>
+		      <td align="left"   id="dhbg">完好、平整</td>
+			  <td align="left"   id="dhbg">基本完好、平整，或小于10%的砌块轻度损坏，不影响正常使用</td>
+              <td align="left"   id="dhbg">10%~20%的切块轻度损坏，或小于10%的砌块中度损坏，影响正常使用</td>
+              <td align="left"   id="dhbg">20%以上的砌块轻度损坏，或10%以上的砌块严重损坏，严重影响使用</td>
+              <td align="center"   id="dhbg">—</td>   
+ 		    </tr>             
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">轨道梁</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完好，凭证，无锈迹</td>
+			  <td align="left"   id="dhbg">小于5%的段中度损坏，有锈迹</td>
+              <td align="left"   id="dhbg">5%~10%的段中度损坏，有明显锈迹</td>
+              <td align="left"   id="dhbg">10%~20%的段中度损坏，或小于5%的段严重损坏，钢筋明显锈蚀</td>
+              <td align="left"   id="dhbg">20%以上的段中度，或5%以上的段严重损坏，钢筋严重锈蚀</td>  
+ 		    </tr>                         
+		    <tr>
+		      <td align="center"   rowspan="3" width="50px" id="dhbg">排水与附属构筑物</td>
+              <td align="center"   width="60px" id="dhbg">坡度与坡向</td>
+		      <td align="left"   id="dhbg">满足摇去</td>
+			  <td align="left"   id="dhbg">基本满足要求，无明显积水</td>
+              <td align="left"   id="dhbg">不满足要求，有明显积水</td>
+              <td align="left"   id="dhbg">严重不满足要求，积水严重</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">泄水口与管井</td>
+		      <td align="left"   id="dhbg">齐全、完好，泄水通畅</td>
+			  <td align="left"   id="dhbg">齐全、无明显损坏、泄水基本通畅</td>
+              <td align="left"   id="dhbg">有少量缺损或淤堵，泄水不通畅</td>
+              <td align="left"   id="dhbg">有大量缺损或淤堵，严重影响泄水</td>
+              <td align="center"   id="dhbg">—</td>  
+ 		    </tr> 
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">管沟及盖板</td>
+		      <td align="left"   id="dhbg">完好，无明显损坏</td>
+			  <td align="left"   id="dhbg">基本完好，个别中度损坏，不影响使用</td>
+              <td align="left"   id="dhbg">少量中度损坏，基本不影响使用</td>
+              <td align="left"   id="dhbg">大量严重损坏，影响使用</td>
+              <td align="left"   id="dhbg">承重盖板断裂，影响行车安全</td>  
+ 		    </tr>                               
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 注:当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。 </font></p>
+
+
+ 
+ <p style="text-align:justify"><a href="#id4.1.6"> 4.1.6</a> <span id="id4.1.6"> 生产与生产辅助建筑物技术状态类别划分应符合<a href="#B4.1.6">表4.1.6</a>的规定。</span></p> 
+
+ 
+
+        <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.1.6">表4.1.6 生产与生产辅助建筑物技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   colspan="2" rowspan="2" id="dhbg">项目</td>
+              <!-- <td></td> -->
+		      <td align="center"   colspan="5" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->
+              <!-- <td></td> -->   
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <!-- <td></td> -->
+		      <td align="center"   width="150px" id="dhbg">一类（好）</td>
+			  <td align="center"   width="160px" id="dhbg">二类（较好）</td>
+              <td align="center"   width="160px" id="dhbg">三类（较差）</td>
+              <td align="center"   width="160px" id="dhbg">四类（差）</td>
+              <td align="center"   width="160px" id="dhbg">五类（危险）</td>  
+ 		    </tr>
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">结构沉降、倾斜、整体稳定</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">基本无沉降、倾斜、整体稳定</td>
+			  <td align="left"   id="dhbg">无明显沉降、倾斜、整体稳定</td>
+              <td align="left"   id="dhbg">有明显沉降、倾斜、整体稳定</td>
+              <td align="left"   id="dhbg">沉降、倾斜较大，但发展缓慢，影响整体稳定</td>
+              <td align="left"   id="dhbg">沉降、倾斜严重，呈发展趋势，整体不稳定</td>  
+ 		    </tr> 
+		    <tr>
+		      <td align="center"   rowspan="2" width="50px" id="dhbg">主主体结构</td>
+              <td align="center"   width="60px" id="dhbg">梁柱及框架</td>
+		      <td align="left"   id="dhbg">完好</td>
+			  <td align="left"   id="dhbg">小于3%的构件轻度损坏，无裂缝</td>
+              <td align="left"   id="dhbg">3%~5%的构件轻度损坏，局部出现轻度裂缝，不影响结构安全</td>
+              <td align="left"   id="dhbg">5%~10%的构件轻度损坏，或小于5%的构件中度损坏，局部出现中度裂缝，影响结构安全</td>
+              <td align="left"   id="dhbg">10%以上的构件轻度损坏，或5%以上的构件中度损坏，出现严重裂缝，严重影响结构安全</td>    
+ 		    </tr>  
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center"   id="dhbg">墙体</td>
+		      <td align="left"   id="dhbg">完好，无裂缝</td>
+			  <td align="left"   id="dhbg">墙体完好，饰面有裂纹、剥落</td>
+              <td align="left"   id="dhbg">墙体局部有裂缝，不影响安全使用</td>
+              <td align="left"   id="dhbg">墙体有较大裂缝，影响安全使用</td>
+              <td align="left"   id="dhbg">墙体下沉、断裂，严重影响安全使用</td>    
+ 		    </tr> 
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">屋面防水</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完完好无渗漏</td>
+			  <td align="left"   id="dhbg">基本完好，局部轻微老化、起泡开裂，无渗漏</td>
+              <td align="left"   id="dhbg">基本完好，局部老化、起泡开裂，有轻微渗漏</td>
+              <td align="left"   id="dhbg">多处老化、起泡开裂，局部渗漏严重</td>
+              <td align="center"   id="dhbg">—</td>    
+ 		    </tr>                         
+            <tr>
+		      <td align="center"   colspan="2"  id="dhbg">室内地面与室外散水</td>
+              <!-- <td></td> -->
+		      <td align="left"   id="dhbg">完好，无沉降</td>
+			  <td align="left"   id="dhbg">局部沉陷，损坏面积小于10%，不影响使用</td>
+              <td align="left"   id="dhbg">局部沉陷，10%~20%的面积损坏，不影响使用</td>
+              <td align="left"   id="dhbg">差异沉降较大，20%以上面积损坏，影响使用</td>
+              <td align="center"   id="dhbg">—</td>   
+ 		    </tr> 
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注:①轻质钢架结构和高层结构应按同家现行标准有关规定执行;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;②当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。</li> 
+ </ul>
+ </font></p>
+
+ <p style="text-align:justify"><a href="#id4.1.7"> 4.1.5</a> <span id="id4.1.7"> 港区铁路、油与液体化工储罐及管线、消防、环保设施等的技术状态类别划分标准应按国家现行标准有关规定执行。</span></p> 
+
+
+4.2 港口附属设施技术状态分类
+-----------------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.2.1"> 4.2.1</a> <span id="id4.2.1"> 系船设施技术状态类别划分应符合<a href="#B4.2.1">表4.2.1</a>的规定。</span></p>
+
+.. raw:: html
+
+        <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.1">表4.2.1 系船设施技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"  width="200px" rowspan="2" id="dhbg">项目</td>
+		      <td align="center"   colspan="2" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+		      <td align="center"   width="350px" id="dhbg">二类（较好）</td>
+			  <td align="center"   width="350px" id="dhbg">四类（差）</td>
+ 		    </tr>
+		    <tr>
+		      <td align="center"   id="dhbg">系船柱</td>
+		      <td align="left"   id="dhbg">同走螺栓齐全，底座无松动;柱体无裂缝，锈坑或磨损深度不大于柱壁厚度的10%；不影响使用</td>
+			  <td align="left"   id="dhbg">残缺数量不大于10%，不影响使用</td>
+ 		    </tr>
+		    <tr>
+		      <td align="center"   id="dhbg">系船环</td>
+		      <td align="left"   id="dhbg">固定螺栓缺失，底座松动;柱体开裂，锈坑或磨损深度大于柱壁厚度的10%；影响使用</td>
+			  <td align="left"   id="dhbg">残缺数量大于10%</td>
+ 		    </tr>            
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注:①系船柱按单体进行评定;系船环按泊位进行评定;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;②当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。</li> 
+ </ul>
+ </font></p>
+
+  <p style="text-align:justify"><a href="#id4.2.2"> 4.2.2</a> <span id="id4.2.2"> 靠船设施技术状态类别划分应符合<a href="#B4.2.2">表4.2.2</a>的规定。</span></p>
+
+.. raw:: html
+
+        <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.2">表4.2.2 靠船设施技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"   colspan="2"rowspan="2" id="dhbg">项目</td>
+               <!-- <td></td> --> 
+		      <td align="center"   colspan="2" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+              <!-- <td></td> -->
+		      <td align="center"   width="350px" id="dhbg">二类（较好）</td>
+			  <td align="center"   width="350px" id="dhbg">四类（差）</td>
+ 		    </tr>            
+		    <tr>
+		      <td align="center" width="100px" id="dhbg" rowspan="2" >橡胶护舷</td>
+              <td align="center" width="100px"  >D形<br/>V形</td>
+		      <td align="left" id="dhbg">破损数量不大于10%，不影响使用</td>
+			  <td align="left" id="dhbg">破损和残缺数量大于10%或连续出现，影响使用</td>
+ 		    </tr>            
+		    <tr>
+		      <!-- <td></td> -->
+              <td align="center" >鼓形</td>
+		      <td align="left" id="dhbg">配件齐全，无破损、无松动</td>
+			  <td align="left" id="dhbg">脱落或本体断裂、影响使用</td>
+ 		    </tr> 
+		    <tr>
+		      <td align="center"   colspan="2" id="dhbg">木护舷</td>
+              <!-- <td></td> -->
+		      <td align="left" id="dhbg">破损长度不大于总长度的10%不影响使用</td>
+			  <td align="left" id="dhbg">破损长度大于总长度的10%毛，影响使用</td>
+ 		    </tr>            
+		    <tr>
+		      <td align="center"   colspan="2" id="dhbg">靠船桩</td>
+              <!-- <td></td> -->
+		      <td align="left" id="dhbg">无较大残余变形，配件基本齐全，不影响使用</td>
+			  <td align="left" id="dhbg">残余变形严重，配件大量缺失，失去缓冲功能，影响使用</td>
+ 		    </tr> 
+
+
+
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注：①D形、V形橡胶护舷和木护触按泊位进行评定；</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ②鼓形护舷按个体进行评定；</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;&nbsp; ③当表中技术状态类别采用百分数表示有重叠时，根据设施的具体情况选定。</li> 
+ </ul>
+ </font></p>
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.2.4"> 4.2.4</a> <span id="id4.2.4"> 防护设施技术状态类别划分应符合<a href="#B4.2.3">表4.2.3</a>的规定。</span></p>
+
+.. raw:: html
+
+        <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.3">表4.2.3 防护设施技术状态分类</b></caption>	
+              
+		    <tr>
+		      <td align="center"  width="200px" rowspan="2" id="dhbg">项目</td>
+		      <td align="center"   colspan="2" id="dhbg">技术状态</td>
+			  <!-- <td></td> -->
+ 		    </tr>
+		    <tr>
+		      <!-- <td></td> -->
+		      <td align="center"   width="350px" id="dhbg">二类（较好）</td>
+			  <td align="center"   width="350px" id="dhbg">四类（差）</td>
+ 		    </tr>
+		    <tr>
+		      <td align="center"   id="dhbg">护轮坎</td>
+		      <td align="left"   id="dhbg">破损高度超过坎高1/3,但残缺长度不大于总长度的10%，不影响使用</td>
+			  <td align="left"   id="dhbg">破损高度超过坎高1/3 ，残缺长度大于总长度的10%，影响使用</td>
+ 		    </tr>
+		    <tr>
+		      <td align="center"   id="dhbg">系网环</td>
+		      <td align="left"   id="dhbg">缺损数量不大于20%，不影响使用</td>
+			  <td align="left"   id="dhbg">缺损数量大于20%，影响使用</td>
+ 		    </tr>      
+		    <tr>
+		      <td align="center"   id="dhbg">栏杆</td>
+		      <td align="left"   id="dhbg">立柱松动、断裂数量不大于20%，且不连续出现；立杆缺损数量不大于20%，不影响使用</td>
+			  <td align="left"   id="dhbg">立柱松动、断裂数量大于20%，或连续2根以上<br/>立杆缺损数量大于20%，影响使用</td>
+ 		    </tr>
+		    <tr>
+		      <td align="center"   id="dhbg">铁梯</td>
+		      <td align="left"   id="dhbg">基础连接无松动，踏步完好，不影响使用</td>
+			  <td align="left"   id="dhbg">基础连接松动，踏步有残缺，影响使用</td>
+ 		    </tr>                    
+		</table>
+
+ <p style="text-indent:2em;" ><font size="2"> 
+ <ul>
+ <li style="list-style-type: none;">注:①系网环、栏杆按泊位计算;</li> 
+ <li style="list-style-type: none;">&emsp;&emsp;②当表中技术状态类别采用百分数表示有重叠时，根据设施的其体情况选定。</li> 
+ </ul>
+ </font></p>

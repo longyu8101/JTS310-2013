@@ -1,0 +1,38 @@
+8 技术档案
+==============
+
+.. raw:: html
+
+  <h2 id="test111">8 技术档案</h2>
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.0.1"> 8.0.1</a> <span id="id8.0.1">港口设施管理部门必须建立港口设施维护技术档案。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.2"> 8.0.2</a> <span id="id8.0.2">港口设施维护技术档案应包括下列内容:</span></p>
+ <ol>
+ <li> 必要的工程原始资料及图纸;</li>
+ <li> 进人运行维护期的港口设施初始状态资料;</li>
+ <li> 定期检查记录，检查记录表格式参见附录 B;</li>
+ <li> 定期测量观测、定期检测、特殊检测报告及记录;</li>
+ <li> 技术状态等级评定报告及记录;</li>
+ <li> 维修设计和施工方案、施工和竣工验收资料等;</li>
+ <li> 其他专项检测、试验研究、验算和评定报告:</li>
+ <li> 特殊'情况下的使用及检测记录;</li>
+ <li> 有关照片、影像资料;</li>
+ <li> 港区地形地貌、泥沙田淤和水深测量等资料;</li>
+ <li> 其他需要归档的资料。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id8.0.3"> 8.0.3</a> <span id="id8.0.3">港口设施维护技术档案应使用计算机管理，并宜建立港口设施维护信息数据库。</span></p>
+
+.. raw:: html
+
+    <style>
+        #abc{
+            height:150px;
+            background-color: #f0ffff;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="abc"></div>
+ </body>
