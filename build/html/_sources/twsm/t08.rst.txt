@@ -1,0 +1,25 @@
+8 技术档案
+==============
+
+.. raw:: html
+
+  <h2 id="test111">8 技术档案</h2>
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.0.1"> 8.0.1</a> <span id="id8.0.1">建立港口设施维护技术档案对提高港口设施维护管理水平、保障港口设施的安全运行具有重要作用。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.2"> 8.0.2</a> <span id="id8.0.2">(2)建立原始资料目的档案中应含有原始资料，对于原始资料缺少检查或检测资料的应进行补测。</span></p>
+ 
+
+.. raw:: html
+
+    <style>
+        #abc{
+            height:500px;
+            background-color: #f0ffff;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="abc"></div>
+ </body>

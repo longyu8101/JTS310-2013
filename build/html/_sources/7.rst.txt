@@ -3,7 +3,7 @@
 
 .. raw:: html
 
-  <h2 id="test111">5 安全使用规定</h2>
+  <h2 id="test111">7 维修养护</h2>
 
 
 7.1 一般规定
@@ -12,7 +12,7 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id7.1.1"> 7.1.1</a> <span id="id7.1.1"> 港口设施维修养护应具有预防性、经常性、延续性和及时性。。</span></p>
+ <p style="text-align:justify"><a href="#id7.1.1"> 7.1.1</a> <span id="id7.1.1"> 港口设施维修养护应具有预防性、经常性、延续性和及时性。</span></p>
  <p style="text-align:justify"><a href="#id7.1.2"> 7.1.2</a> <span id="id7.1.2"> 港口设施维修养护应以保养、小修和中修为主，必要时应进行大修，并应符合下列规定。</span></p>
  <p style="text-align:justify"><a href="#id7.1.2.1"> 7.1.2.1</a> <span id="id7.1.2.1"> 对轻微损伤和局部破损，应进行日常保养、小修，保持设施外观和功能良好。</span></p>
  <p style="text-align:justify"><a href="#id7.1.2.2"> 7.1.2.2</a> <span id="id7.1.2.2"> 对小修所不能解决的损坏和因偶然事故造成的设施局部较大损坏，应安排中修，恢复原有技术状态。</span></p>

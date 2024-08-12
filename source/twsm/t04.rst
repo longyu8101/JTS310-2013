@@ -1,0 +1,28 @@
+4 技术状态分类
+===================
+
+.. raw:: html
+
+  <h2 id="test111">4 技术状态分类</h2>
+
+
+.. raw:: html
+
+
+ <p style="text-align:justify;text-indent:2em;"> <a href="https://jts310-2013.readthedocs.io/en/latest/4.html#B4.1.1">表4.1.1 </a>及注借鉴现行行业标准《公路桥涵养护规范》(JTG H11—2004)和《城市桥梁养护技术规范》(CJJ 99—2009)的做法和部分地区港口管理部门的建议，将港口主要设施的技术状态等级由原规程规定的技术状态良好、技术状态较好、技状态较差和技术状态危险四个类别修改为技术状态好、技术状态较好、技状态较差、技术状态差和技术状态危险五个类别。</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 根据现行行业标准《港口水工建筑物检测与评定技术规范》(JTJ302-2006) 、《公路桥涵养护规范》(JTG H11-2004) 和《城市桥梁养护技术规范》(CJJ 99-2009) 的相关规定、专家咨询意见和部分工程验证成果，对主要港口设施技术状态类别评定项目、内容进行了调整，对评定标准进行了量化，操作方便。</p>
+ <p style="text-align:justify;text-indent:2em;"> 注中量化的数据来源于调研资料和港口设施维护部门的经验。在使用过程中请根据实际情况处理，注意积累数据，以便下次修订时使用。</p>
+ <p style="text-align:justify;text-indent:2em;"> 其中裂缝宽度的划分是根据《水运工程混凝土质量控制标准》(JTS 257-2008 )中不同环境的钢筋混凝土裂缝最大限值在 0.2~0.3 mm 之间和调研资料进行划分的。</p>
+ <p style="text-align:justify;text-indent:2em;"> <a href="https://jts310-2013.readthedocs.io/en/latest/4.html#B4.1.2.1">表4.1.2-1 </a>到<a href="https://jts310-2013.readthedocs.io/en/latest/4.html#B4.1.6">表4.1.6 </a>是对港口主要设施按照部位进行量化，有利于操作。该部分表中数据来源于部分科研院所的科研成果和一些港口设施管理部门的建议。</p>
+ 
+
+     <style>
+        #abc{
+            height:100px;
+            background-color: #f0ffff;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="abc"></div>
+ </body>

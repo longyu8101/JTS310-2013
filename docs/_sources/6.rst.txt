@@ -1,0 +1,908 @@
+6 检测与评定
+====================
+
+.. raw:: html
+
+  <h2 id="test111">6 检测与评定</h2>
+
+
+6.1 一般规定
+-----------------------------------------------
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.1.1"> 6.1.1</a> <span id="id6.1.1"> 港口设施应按规定进行检测和评定，及时掌握设施的技术状态。</span></p>
+ <p style="text-align:justify"><a href="#id6.1.2"> 6.1.2</a> <span id="id6.1.2"> 港口设施的检测和评定应包括下列内容:</span></p>
+ <ol>
+ <li>检查、记录设施当前状况;</li>
+ <li>了解设施使用条件的变化给设施运行带来的影响;</li>
+ <li>跟踪结构与材料的使用性能变化;</li>
+ <li>对设施的技术状态进行检测和评定。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id6.1.3"> 6.1.3</a> <span id="id6.1.3"> 港口设施的检测分为定期检查、定期测量观测、定期检测和特殊检测。</span></p> 
+ <p style="text-align:justify;text-indent:2em;"> 定期检查应由港口设施管理部门或使用部门组织实施，定期测量观测、定期检测和特殊检测应由具有相应资格能力的专业单位承担。</p>
+ <p style="text-align:justify"><a href="#id6.1.4"> 6.1.4</a> <span id="id6.1.4"> 检测计划应根据港口设施的特点、检测内容和技术状态分类制定。</span></p> 
+ <p style="text-align:justify"><a href="#id6.1.5"> 6.1.5</a> <span id="id6.1.5"> 应建立港口设施基本状况及检测评定动态管理台账，并应将有关信息输入数据库，建立永久性技术档案，台账格式参见<a href="https://jts310-2013.readthedocs.io/en/latest/FLA.html">附录A</a>。</span></p>     
+
+
+
+6.2 定期检查
+-----------------------------------------------
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.2.1"> 6.2.1</a> <span id="id6.2.1"> 定期检查系指对港口设施的使用情况、上部结构外观变化和附属设施状况等进行的周期性检查。</span></p>
+ <p style="text-align:justify"><a href="#id6.2.2"> 6.2.2</a> <span id="id6.2.2"> 定期检查的周期应根据设施结构类别、竣工年限、使用环境和技术状态等确定，码头、防波堤、引堤与护岸等主要设施的检查周期不宜低于<a href="#B6.2.2">表6.2.2</a>的规定。</span></p>
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.2.2">表6.2.2 主要港口设施定期检查周期</b></caption>	
+              
+		    <tr>
+		        <td  align="center" colspan="2" rowspan="2" id="dhbg">设施类别</td>
+		        <!-- <td></td> -->
+				<td  align="center" colspan="3">检查周期</td>
+                <!-- <td></td> -->
+		        <!-- <td></td> -->
+		    </tr>
+		    <tr>
+		       <!-- <td></td> -->
+		       <!-- <td></td> -->
+		       <td align="center"  width="200px" >使用10年以内</td>
+			   <td align="center"  width="200px" >使用10~20年之间</td>
+               <td align="center"  width="200px" >使用20年以上</td>
+		    </tr>
+		    <tr>
+		       <td  align="center" colspan="2"  id="dhbg">码头</td>
+		       <!-- <td></td> -->
+			  <td align="center" id="dhbg">3个月</td>
+              <td align="center" id="dhbg">2个月</td>
+              <td align="center" id="dhbg">1个月</td>
+		     </tr>
+          	 <tr>
+		       <td  align="center" colspan="2"  id="dhbg">防波堤、引堤与护岸</td>
+		       <!-- <td></td> -->
+			  <td align="center" id="dhbg">3个月</td>
+              <td align="center" id="dhbg">2个月</td>
+              <td align="center" id="dhbg">1个月</td>
+		     </tr>
+          	 <tr>
+		      <td  align="center"   width="150px" rowspan="2"  id="dhbg">港区道路与堆场</td>
+		      <td align="center"    width="150px" >主要干道</td>
+			  <td align="center" colspan="3"  id="dhbg">1个月</td>
+               <!-- <td></td> -->
+               <!-- <td></td> -->
+		     </tr>
+          	 <tr>
+		     <!-- <td></td> -->
+		     <td  align="center" >其他</td>
+			 <td align="center" colspan="3"  id="dhbg">3个月</td>
+             <!-- <td></td> -->
+             <!-- <td></td> -->
+		     </tr>			
+		</table>
+
+
+
+   <p style="text-indent:2em;" ><font size="2">注：① 当遇大潮汛、洪水、流冰、台风等特殊情况，应增加检查次数;<br>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;② 设施投入使用第一年应适当加密检查。</font></p>
+
+ <p style="text-align:justify"><a href="#id6.2.3"> 6.2.3</a> <span id="id6.2.3"> 定期检查宜以目测为主，并应现场填写港口设施定期记录表，记录表格式参见<a href="https://jts310-2013.readthedocs.io/en/latest/FLB.html">附录B</a>。发现设施明显损坏、影响正常使用时，应及时向设施管理部门报告。</span></p> 
+ <p style="text-align:justify"><a href="#id6.2.4"> 6.2.4</a> <span id="id6.2.4"> 定期检查应结合设施特点和使用情况确定检查内容和要求。</span></p> 
+ <p style="text-align:justify"><a href="#id6.2.4.1"> 6.2.4.1</a> <span id="id6.2.4.1"> 码头设施定期检查应包括下列内容:</span></p>  
+ <ol>
+ <li>上面层外观损坏情况；</li>
+ <li>上码头迎水面构件损坏情况；</li>
+ <li>上码头接岸有无明显沉降位移；</li>
+ <li>上附属设施缺损；</li>
+ <li>上有无超载使用现象；</li>
+ <li>上其他明显损坏或不正常现象。</li>
+ </ol> 
+ <p style="text-align:justify"><a href="#id6.2.4.2"> 6.2.4.2</a> <span id="id6.2.4.2"> 每年应对高桩码头面板以下部分进行检查，主要包括下列内容:</span></p>  
+ <ol>
+ <li>上水面以下、泥面以上部分的桩基损坏'情况;</li>
+ <li>上接岸结构损坏情况;</li>
+ <li>上边坡和棱体的断面变化情况。</li>
+ </ol> 
+ <p style="text-align:justify"><a href="#id6.2.4.3"> 6.2.4.3</a> <span id="id6.2.4.3"> 直立式防波堤与护岸定期检查可按码头工程要求进行。斜坡式防波堤和护岸定期检查应包括下列内容:</span></p> 
+ <ol>
+ <li>上部结构缺损、预制构件错位情况;</li>
+ <li>内、外坡面完好情况;</li>
+ <li>护面块体缺损和变位情况;</li>
+ <li>接岸部位有无明显沉降、位移或塌陷;</li>
+ <li>附属设施完好'情况;</li>
+ <li>其他明显损坏或不正常现象。</li>
+ </ol> 
+ <p style="text-align:justify"><a href="#id6.2.4.4"> 6.2.4.4</a> <span id="id6.2.4.4"> 港区道路与堆场定期检查应包括下列内容：</span></p>  
+ <ol>
+ <li>面层外观损坏情况；</li>
+ <li>路缘石缺损、松动或错位情况；</li>
+ <li>排水设施是否良好，有无堵塞；</li>
+ <li>交通信号、标志、标线，照明设施等是否完好；</li>
+ <li>有无超载现象；</li>
+ <li>其他常见损坏。 </li> 
+ </ol> 
+
+
+
+
+6.3 定期测量观测
+-----------------------------------------------
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.3.1"> 6.3.1</a> <span id="id6.3.1"> 港口设施的定期测量观测应包括港区控制与地形测量、主要设施变形观测、水工建筑物前沿冲刷或回淤观测和进出港航道、港池、锚地水深及水流测量等。</span></p>
+ <p style="text-align:justify"><a href="#id6.3.2"> 6.3.2</a> <span id="id6.3.2"> 码头、防波堤、护岸等水工建筑物应按设计要求设置永久性沉降、位移观测点，生产及生产辅助建筑物应按设计要求设置永久性沉降观测点，港区道路与堆场宜根据实际情况设置沉降观测点。未设置或损坏的观测点应补设或恢复。</span></p>
+ <p style="text-align:justify"><a href="#id6.3.3"> 6.3.3</a> <span id="id6.3.3"> 港区测量控制网的平面坐标系统和高程系统宜与城市或国家系统联测。</span></p> 
+ <p style="text-align:justify"><a href="#id6.3.4"> 6.3.4</a> <span id="id6.3.4"> 定期测量观测的技术要求应符合现行行业标准《水运工程测量规范》(JTS 131) 和《水运工程水工建筑物原型观测技术规范》 (JTJ 218) 等的有关规定。</span></p> 
+ <p style="text-align:justify"><a href="#id6.3.5"> 6.3.5</a> <span id="id6.3.5"> 港区控制与地形的定期测量周期不宜超过5年。</span></p>
+ <p style="text-align:justify"><a href="#id6.3.6"> 6.3.6</a> <span id="id6.3.6"> 码头前沿水深定期测量的周期应根据码头结构型式、回淤或冲刷程度确定。回淤或冲刷严重区域的测量周期不宜超过0.5年；其他区域不宜超过1年。</span></p>
+ <p style="text-align:justify"><a href="#id6.3.7"> 6.3.7</a> <span id="id6.3.7"> 港区道路与堆场的沉降观测周期应根据实际情况确定，且不宜超过3年。</span></p> 
+ <p style="text-align:justify"><a href="#id6.3.8"> 6.3.8</a> <span id="id6.3.8"> 生产及生产辅助建筑物的沉降观测周期宜为1～2年。</span></p> 
+ <p style="text-align:justify"><a href="#id6.3.9"> 6.3.9</a> <span id="id6.3.9"> 港池、航道和锚地的定期测量观测项目与周期应符合<a href="#B6.3.9.1">表6.3.9-1</a>和<a href="#B6.3.9.2">表6.3.9-2</a>的规定</span></p>  
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.3.9.1">表6.3.9-1 内河港池、航道和锚地定期测量观测项目与周期</b></caption>	
+              
+		    <tr>
+		       <td  align="center" width="60px" id="dhbg"> 序号</td>
+			   <td  align="center" width="340px" id="dhbg"> 项目</td>
+               <td  align="center" width="500px" id="dhbg"> 周期</td>
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 1</td>
+			   <td  align="center" id="dhbg"> 泊位、港池和进出港航道水深</td>
+               <td  align="left" id="dhbg"> 泊位、港池每年不少于 次，进出港航道每年不少于1次</td>
+		    </tr>            
+		    <tr>
+		       <td  align="center" id="dhbg"> 2</td>
+			   <td  align="center" id="dhbg"> 锚地水深</td>
+               <td  align="left" id="dhbg"> 根据维护要求和地形变化情况确定，两年不少于1次</td>
+		    </tr>
+            		    <tr>
+		       <td  align="center" id="dhbg"> 3</td>
+			   <td  align="center" id="dhbg"> 固定标志</td>
+               <td  align="left" id="dhbg"> 根据固定标志变化情况确定，每年不少于1次</td>
+		    </tr>
+ 		    <tr>
+		       <td  align="center" id="dhbg"> 4</td>
+			   <td  align="center" id="dhbg"> 碍航物</td>
+               <td  align="left" id="dhbg"> 碍航物清理前后各1次</td>
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 5</td>
+			   <td  align="center" id="dhbg"> 水流流速</td>
+               <td  align="left" id="dhbg"> 根据流场变化情况确定</td>
+		    </tr>                       
+		</table>
+
+
+
+   <p style="text-indent:2em;" ><font size="2">注：在枯水期出浅的航道，应增加出浅期水深测量次数，每月不宜少于两次。维护水深测量宜在汛后和枯水期进行。</font></p>
+
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.3.9.2">表6.3.9-2 海港港池、航道和螨地定期测量观测项目与周期</b></caption>	
+              
+		    <tr>
+		       <td  align="center" width="60px" id="dhbg"> 序号</td>
+			   <td  align="center" width="340px" id="dhbg"> 项目</td>
+               <td  align="center" width="500px" id="dhbg"> 周期</td>
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 1</td>
+			   <td  align="center" id="dhbg"> 泊位、港池和进出港航道水深</td>
+               <td  align="left" id="dhbg"> 根据港口淤积和船舶进出港情况确定，每年不少于I次</td>
+		    </tr>            
+		    <tr>
+		       <td  align="center" id="dhbg"> 2</td>
+			   <td  align="center" id="dhbg"> 锚地水深</td>
+               <td  align="left" id="dhbg"> 根据维护要求和地形变化情况确定，两年不少于1次</td>
+		    </tr>
+            		    <tr>
+		       <td  align="center" id="dhbg"> 3</td>
+			   <td  align="center" id="dhbg"> 固定标志</td>
+               <td  align="left" id="dhbg"> 根据固定标志变化情况确定，每年不少于1次</td>
+		    </tr>
+ 		    <tr>
+		       <td  align="center" id="dhbg"> 4</td>
+			   <td  align="center" id="dhbg"> 碍航物</td>
+               <td  align="left" id="dhbg"> 碍航物清理前后各一次</td>
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 5</td>
+			   <td  align="center" id="dhbg"> 水流流速</td>
+               <td  align="left" id="dhbg"> 根据流场变化情况确定</td>
+		    </tr>  
+		    <tr>
+		       <td  align="center" id="dhbg"> 6</td>
+			   <td  align="center" id="dhbg"> 淤泥质海港适航水深</td>
+               <td  align="left" id="dhbg"> 根据港口淤积和船只进出港情况确定</td>
+		    </tr>                                 
+		</table>
+
+  <p> </p>
+
+
+6.4 定期检测
+-----------------------------------------------
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.4.1"> 6.4.1</a> <span id="id6.4.1"> 定期检测应采用相应的仪器、设备和专用工具对结构的变形、损坏及劣化程度进行定性和定量检测。定期检测应包括下列内容:</span></p>
+ <ol>
+ <li> 对照设施的基本资料对设施的现状进行校核;</li>
+ <li> 检测构件的破损情况及程度，判断损害原因，提出维修建议;</li>
+ <li> 对难以判断损害程度和原因的，提出特殊检测的建议;</li>
+ <li> 对严重损坏、危及安全使用的，提出限制使用或停止使用的建议等。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id6.4.2"> 6.4.2</a> <span id="id6.4.2"> 应根据设施使用年限和现状编制定期检测计划与方案，经设施主管部门批准后实施。</span></p>
+ <p style="text-align:justify"><a href="#id6.4.3"> 6.4.3</a> <span id="id6.4.3"> 定期检测后应提交检测报告，检测中发现问题的应眼踪检测。</span></p> 
+ <p style="text-align:justify"><a href="#id6.4.4"> 6.4.4</a> <span id="id6.4.4"> 主要港口设施定期检测项目、内容及周期应符合<a href="#B6.4.4.1">表6.4.4.1-1</a>～<a href="#B6.4.4.5">表6.4.4-5</a>的规定。</span></p>  
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.4.1">表6.4.4-1 重力式码头定期检测项目、内容与周期</b></caption>	
+              
+		    <tr>
+		       <td  align="center" width="60px" id="dhbg"> 序号</td>
+			   <td  align="center" colspan="2" id="dhbg"> 项目</td>
+              <!-- <td></td> --> 
+               <td  align="center" width="250px" id="dhbg"> 内容</td>
+               <td  align="center" width="250px" id="dhbg"> 周期（年）</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 1</td>
+			   <td  align="center" colspan="2" id="dhbg"> 整体稳定性</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 沉降、位移、倾斜</td>
+               <td  align="center"  id="dhbg"> 使用5年内，每年1次<br/>使用5年后，3~5年1次</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" rowspan="3" id="dhbg"> 2</td>
+			   <td  align="center" rowspan="3" width="140px" id="dhbg"> 上部结构</td>
+               <td  align="center" width="200px"  id="dhbg"> 面层</td>
+               <td  align="center"  id="dhbg"> 局部塌陷</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2"  id="dhbg"> 胸墙</td>
+               <td  align="center"  id="dhbg"> 破损、裂缝</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 混凝土劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr> 
+ 		    <tr>
+		       <td  align="center" rowspan="6" id="dhbg"> 3</td>
+			   <td  align="center" rowspan="6" id="dhbg"> 墙身构件</td>
+               <td  align="center" rowspan="2" id="dhbg"> 沉箱、扶壁、图简</td>
+               <td  align="center"  id="dhbg"> 破损裂缝</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 水位变动区和浪溅区混凝土劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr>            
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2"  id="dhbg"> 方块</td>
+               <td  align="center"  id="dhbg"> 裂缝、破损和块体错位</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 水位变动区和浪溅区混凝土劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr>
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2"  id="dhbg"> 格形钢板桩</td>
+               <td  align="center"  id="dhbg"> 变形、破损</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 锈蚀、钢结构劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr>            
+ 		    <tr>
+		       <td  align="center" id="dhbg">4</td>
+			   <td  align="center" colspan="2" id="dhbg"> 基床</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 冲刷、淘空</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>    
+ 		    <tr>
+		       <td  align="center" id="dhbg">5</td>
+			   <td  align="center" colspan="2" id="dhbg"> 后方接岸</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 差异沉降、漏砂、位移</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>                                                     
+		</table>
+
+
+
+   <p style="text-indent:2em;" ><font size="2">注：① 直立式防波堤与护岸可按本表的相应规定执行;<br>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;② 除沉降位移外，其他项目均为投产5年后进行定期检测。</font></p>
+
+
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.4.2">表6.4.4-2 高桩码头定期检测项目、内容与周期</b></caption>	
+              
+		    <tr>
+		       <td  align="center" width="60px" id="dhbg"> 序号</td>
+			   <td  align="center" colspan="2" id="dhbg"> 项目</td>
+              <!-- <td></td> --> 
+               <td  align="center" width="250px" id="dhbg"> 内容</td>
+               <td  align="center" width="250px" id="dhbg"> 周期（年）</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 1</td>
+			   <td  align="center" colspan="2" id="dhbg"> 整体稳定性</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 沉降和位移</td>
+               <td  align="center"  id="dhbg"> 使用5年内，每年1次<br/>使用5年后，3~5年1次</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 2</td>
+			   <td  align="center" colspan="2"  id="dhbg"> 面层</td>
+                <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 裂缝、局部损坏</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>
+ 		    <tr>
+		       <td  align="center" rowspan="5" id="dhbg"> 3</td>
+			   <td  align="center" rowspan="5" width="140px"  id="dhbg"> 上部结构</td>
+               <td  align="center" rowspan="3" width="200px"  id="dhbg"> 混凝土结构</td>
+               <td  align="center"  id="dhbg"> 破损、裂缝</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 钢筋锈蚀</td>
+               <td  align="center" id="dhbg"> 3~5</td>   
+		    </tr> 
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 混凝土劣化</td>
+               <td  align="center" id="dhbg"> 3~5</td>   
+		    </tr>                        
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2"  id="dhbg"> 钢结构</td>
+               <td  align="center"  id="dhbg"> 损坏变形、节点松动</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 钢材劣化</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr>
+ 		    <tr>
+		       <td  align="center" rowspan="6" id="dhbg"> 4</td>
+			   <td  align="center" rowspan="6" id="dhbg"> 基桩</td>
+               <td  align="center" rowspan="2" id="dhbg"> 桩帽、墩台</td>
+               <td  align="center"  id="dhbg"> 破损、裂缝</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 混凝土劣化</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr> 
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2"  id="dhbg"> 混凝土桩、管桩</td>
+               <td  align="center"  id="dhbg"> 破损裂缝</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 混凝土劣化</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr>
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2"  id="dhbg"> 钢管桩</td>
+               <td  align="center"  id="dhbg"> 涂层劣化</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 钢板厚度</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr>
+ 		    <tr>
+		       <td  align="center" id="dhbg">5</td>
+			   <td  align="center" colspan="2" id="dhbg"> 接岸结构</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 结构损坏、差异沉降、位移</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr>    
+ 		    <tr>
+		       <td  align="center" id="dhbg">6</td>
+			   <td  align="center" colspan="2" id="dhbg"> 岸、边坡，棱体</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 断面变化</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr>                                                     
+		</table>
+
+
+
+   <p style="text-indent:2em;" ><font size="2">注：① 必要时进行桩身完整性检测<br/>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;② 内河码头上部结构和基桩检测周期可适当延长;<br/>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;③ 重力墩式码头上部结构按本表执行；<br/>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;④ 电化学防腐蚀有效性检测按照相关标准执行；<br/>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;⑤ 除沉降位移外，其他项目均为投产5年后进行定期检测。</font></p>
+
+
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.4.3">表6.4.4-3 板桩码头定期检测项目、内容与周期</b></caption>	
+              
+		    <tr>
+		       <td  align="center" width="60px" id="dhbg"> 序号</td>
+			   <td  align="center" colspan="3" id="dhbg"> 项目</td>
+              <!-- <td></td> --> 
+              <!-- <td></td> --> 
+               <td  align="center" width="250px" id="dhbg"> 内容</td>
+               <td  align="center" width="250px" id="dhbg"> 周期（年）</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 1</td>
+			   <td  align="center" colspan="3" id="dhbg"> 整体稳定性</td>
+              <!-- <td></td> --> 
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 沉降和位移</td>
+               <td  align="center"  id="dhbg"> 使用5年内，每年1次<br/>使用5年后，3~5年1次</td>   
+		    </tr>
+ 		    <tr>
+		       <td  align="center" rowspan="4" id="dhbg"> 2</td>
+			   <td  align="center" rowspan="4" width="120px" id="dhbg"> 上部结构</td>
+               <td  align="center" rowspan="2" colspan="2" id="dhbg"> 面层</td>
+                <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 裂缝、局部损坏</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+                <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 沉降</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr> 
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2" colspan="2" id="dhbg"> 胸墙或帽梁、导梁、轨道梁</td>
+                <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 破损、裂缝</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+                <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 混凝土劣化</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr>
+ 		    <tr>
+		       <td  align="center" rowspan="8" id="dhbg"> 3</td>
+			   <td  align="center" rowspan="8" id="dhbg"> 墙身</td>
+               <td  align="center" rowspan="7" width="100px"  id="dhbg"> 前墙</td>
+               <td  align="center" rowspan="2" width="120px"  id="dhbg"> 钢板桩</td>
+               <td  align="center" id="dhbg"> 断面厚度</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 锁扣连接</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr> 
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center" rowspan="3"  id="dhbg"> 混凝土板桩</td>
+               <td  align="center"  id="dhbg"> 破损和裂缝</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"   id="dhbg"> 混凝土劣化</td>
+               <td  align="center"   id="dhbg"> 3~5</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 接缝</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>            
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> -->
+               <!-- <td></td> -->  
+               <td  align="center" rowspan="2"  id="dhbg"> 地连墙</td>
+               <td  align="center"  id="dhbg"> 破损、裂缝</td>
+               <td  align="center"  id="dhbg"> 3</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <!-- <td></td> -->
+               <td  align="center"  id="dhbg"> 混凝土劣化</td>
+               <td  align="center" id="dhbg"> 3~5</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2" colspan="2" id="dhbg"> 锚碇拉杆及连接件</td>
+               <!-- <td></td> -->
+               <td  align="center"  id="dhbg"> 涂层破损钢材劣化</td>
+               <td  align="center"  id="dhbg"> 3~5</td>   
+		    </tr> 
+		</table>
+
+   <p style="text-indent:2em;" ><font size="2">注：除沉降位移外，其他项目均为投产5年后进行定期检测。</font></p>
+
+
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.4.4">表6.4.4-4 斜坡码头和浮码头定期检测项目、内容与周期</b></caption>	
+              
+		    <tr>
+		       <td  align="center" width="60px" id="dhbg"> 序号</td>
+			   <td  align="center" colspan="2" id="dhbg"> 项目</td>
+              <!-- <td></td> --> 
+               <td  align="center" width="250px" id="dhbg"> 内容</td>
+               <td  align="center" width="250px" id="dhbg"> 周期（年）</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 1</td>
+			   <td  align="center" colspan="2" id="dhbg"> 整体稳定性</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 沉降和位移</td>
+               <td  align="center"  id="dhbg"> 使用5年内，每年1次<br/>使用5年后，3~5年1次</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" rowspan="2" id="dhbg"> 2</td>
+			   <td  align="center" rowspan="2" width="140px" id="dhbg"> 实体斜坡道</td>
+               <td  align="center" width="200px" id="dhbg"> 坡顶、坡面、坡道</td>
+               <td  align="center"  id="dhbg"> 沉降、裂缝、塌坡</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 坡脚</td>
+               <td  align="center"  id="dhbg"> 冲刷、淘空</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>  
+  		    <tr>
+		       <td  align="center" rowspan="4" id="dhbg"> 3</td>
+			   <td  align="center" rowspan="4" id="dhbg"> 架空斜坡道</td>
+               <td  align="center" rowspan="2" id="dhbg"> 上部结构</td>
+               <td  align="center"  id="dhbg"> 开裂、破损</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg">混凝土、钢结构劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr>            
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2"  id="dhbg"> 墩台、墩柱</td>
+               <td  align="center"  id="dhbg"> 开裂、变位、变形</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 混凝土劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr>
+ 		    <tr>
+		       <td  align="center" rowspan="3" id="dhbg"> 4</td>
+			   <td  align="center" rowspan="3" id="dhbg"> 钢引桥</td>
+               <td  align="center"  id="dhbg"> 支座</td>
+               <td  align="center"  id="dhbg"> 缺失、损坏</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center" rowspan="2"  id="dhbg"> 面板、梁格桁架、镒链</td>
+               <td  align="center"  id="dhbg"> 变形、开裂</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 腐蚀、钢结构劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr>
+ 		    <tr>
+		       <td  align="center" rowspan="3" id="dhbg"> 5</td>
+			   <td  align="center" rowspan="3" id="dhbg"> 轨道梁</td>
+               <td  align="center" rowspan="2"  id="dhbg"> 钢轨</td>
+               <td  align="center"  id="dhbg"> 中心线偏差、轨距、轨顶高差</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 腐蚀、断裂、钢结构劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr>  
+ 		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 缆绳沟</td>
+               <td  align="center"  id="dhbg"> 沉降、损坏</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+  		    <tr>
+		       <td  align="center" id="dhbg">6</td>
+			   <td  align="center" colspan="2" id="dhbg"> 撑杆、撑墩、升降架</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 位移、变形、开裂</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>                                                     
+		</table>
+   <p style="text-indent:2em;" ><font size="2">注：除沉降位移外，其他项目均为投产5年后进行定期检测。</font></p>
+
+
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6.4.4.5">表6.4.4-5 斜坡式防波堤与护岸定期检测项目、内容与周期</b></caption>	
+              
+		    <tr>
+		       <td  align="center" width="60px" id="dhbg"> 序号</td>
+			   <td  align="center" colspan="2" id="dhbg"> 项目</td>
+              <!-- <td></td> --> 
+               <td  align="center" width="250px" id="dhbg"> 内容</td>
+               <td  align="center" width="250px" id="dhbg"> 周期（年）</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" id="dhbg"> 1</td>
+			   <td  align="center" colspan="2" id="dhbg"> 整体稳定性</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 沉降和位移</td>
+               <td  align="center"  id="dhbg"> 使用5年内，每年1次<br/>使用5年后，3~5年1次</td>   
+		    </tr>
+		    <tr>
+		       <td  align="center" rowspan="2" id="dhbg"> 2</td>
+			   <td  align="center" rowspan="2" width="140px" id="dhbg"> 上部结构</td>
+               <td  align="center" width="200px" id="dhbg"> 胸墙、防浪墙</td>
+               <td  align="center"  id="dhbg"> 破损裂缝</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+		    <tr>
+		       <!-- <td></td> --> 
+			   <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 半圆体</td>
+               <td  align="center"  id="dhbg"> 冲混凝土劣化</td>
+               <td  align="center"  id="dhbg"> 5~10</td>   
+		    </tr>  
+  		    <tr>
+		       <td  align="center" id="dhbg"> 3</td>
+			   <td  align="center" rowspan="2" id="dhbg"> 堤身和护面</td>
+               <td  align="center"  id="dhbg"> 断面</td>
+               <td  align="center"  id="dhbg"> 坡面变化</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>
+ 		    <tr>
+		      <td  align="center" id="dhbg"> 4</td> 
+			   <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 护面块体</td>
+               <td  align="center"  id="dhbg">破损、缺失</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>            
+  		    <tr>
+		       <td  align="center" id="dhbg">5</td>
+			   <td  align="center" colspan="2" id="dhbg"> 护坦与棱体</td>
+              <!-- <td></td> --> 
+               <td  align="center"  id="dhbg"> 冲刷损坏</td>
+               <td  align="center"  id="dhbg"> 5</td>   
+		    </tr>                                                     
+		</table>
+   <p style="text-indent:2em;" ><font size="2">注：除沉降位移外，其他项目均为投产 年后进行定期检测。</font></p>
+
+
+
+
+
+
+6.5 定期测量观测
+-----------------------------------------------
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.5.1"> 6.5.1</a> <span id="id6.5.1"> 发生下列情况之一时应进行特殊检测:</span></p>
+ <ol>
+ <li> 定期检查中发现重大问题的;</li>
+ <li> 定期检测中难以判明主体结构是否安全的;</li>
+ <li> 遭受特殊灾害或事故造成结构及主要构件损坏，可能危及结构安全的。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id6.5.2"> 6.5.2</a> <span id="id6.5.2"> 特殊检测应根据设施的损坏情况、检测内容和性质，采用仪器设备进行现场测试、荷载试验、室内辅助试验和校核计算等手段，对设施进行详细检测和综合分析。</span></p>
+ <p style="text-align:justify"><a href="#id6.5.3"> 6.5.3</a> <span id="id6.5.3"> 特殊检测前应收集并掌握必要的设计文件、竣工资料、历次定期检测和特殊检测资料以及维修记录等，并应编制检测计划方案及技术组织措施。</span></p> 
+ <p style="text-align:justify"><a href="#id6.5.4"> 6.5.4</a> <span id="id6.5.4"> 特殊检测应对下列问题提出结论性意见:</span></p> 
+ <ol>
+ <li> 结构材料损坏和劣化状况，包括材料物理、化学性能退化及原因的测试分析，结构整体'性能和功能状态评定;</li>
+ <li> 结构承载能力，包括强度、稳定性检测、试验，分析结构承载能力，提出结构和构件维修加固建议;</li>
+ <li> 结构继续使用年限和使用条件等。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id6.5.5"> 6.5.5</a> <span id="id6.5.5"> 结构构件损坏和劣化情况的检测应根据结构构件损坏部位、材料劣化的类型，选择表面测量、无损检测和局部取样等方法进行。试样应在有代表性构件的次要部位获取。</span></p>
+ <p style="text-align:justify"><a href="#id6.5.6"> 6.5.6</a> <span id="id6.5.6"> 结构承载能力试验和验算应执行国家现行标准的有关规定。</span></p> 
+
+
+6.6 技术状态分类评定
+-----------------------------------------------
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.6.1"> 6.6.1</a> <span id="id6.6.1"> 港口设施技术状态分类评定应由设施维护管理部门负责进行。</span></p>
+ <p style="text-align:justify"><a href="#id6.6.2"> 6.6.2</a> <span id="id6.6.2"> 设施的技术状态分类评定应根据定期检查、定期测量观测、定期检测和特殊检测的结果综合分析确定。</span></p>
+ <p style="text-align:justify"><a href="#id6.6.3"> 6.6.3</a> <span id="id6.6.3"> 对于初步认定为四类和五类的设施，设施维护管理部门应委托有相应资格能力的专业单位进行检测评估，并组织专家进行评定。</span></p>  
