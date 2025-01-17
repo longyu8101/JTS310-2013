@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '港口设施维护技术规范<br /><br />JTS 310-2013'
-copyright = '哈尔滨工业大学' 
+copyright = ' ' 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
